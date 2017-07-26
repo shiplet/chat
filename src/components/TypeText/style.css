@@ -1,0 +1,12 @@
+.prefix {
+    font-weight: bold;
+    color: #0ccc6a;
+}
+
+.hidden {
+    opacity: 0;
+}
+
+.visible {
+    opacity: 1;
+}
